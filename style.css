@@ -1,0 +1,14 @@
+body {
+  background: #333;
+  color: #fff;
+}
+
+.navbar {
+  border-bottom: #008ed6 3px solid;
+  opacity: 0.8;
+}
+
+#home-section {
+  background: url("images/children-community-family-9746.jpg");
+}
+/*# sourceMappingURL=style.css.map */
